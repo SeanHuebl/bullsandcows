@@ -1,4 +1,4 @@
-# bullsandcows
+# Bulls and Cows
 My first game within Unreal Engine
 
 Project: Bulls and Cows | Language: C++ | Unreal Engine
