@@ -1,0 +1,6 @@
+# bullsandcows
+My first game within Unreal Engine
+
+Project: Bulls and Cows | Language: C++ | Unreal Engine
+
+This was my first game that I coded in an engine outside of the terminal yet is still terminal like. The goal was to simulate a puzzle in a terminal as if a player is walking through and needs to complete it to progress through the level. The object of the game is to guess what a word is! The game will tell you how many Bulls and how many Cows you have relative to your guess. These indicate either right letters in the right spot, and right letters in the wrong spot!In this section I learned about header files and name spaces as well as loops in C++. I started out with a 'magic word' and eventually upgraded to a more dynamic game.This was one of my first experiences with dynamic coding, where if you guess the word correctly the game increases in difficulty and a new random word from a text file to guess is presented!I learned about early returning from a function using if statements while checking certain conditions.I learned about nesting for loops to check the values of 2 arrays, their indexes, against each other and I gained experience with pointers and references!Within the repo my main work is in the BullCowCartridge.cpp and BullCowCartridge.h files!
